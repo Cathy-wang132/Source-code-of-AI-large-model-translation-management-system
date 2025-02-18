@@ -5,7 +5,7 @@
 
 ### 源码
 
-管理后台预览：https://test.wwwoop.com/translationAI/admin/list
+管理后台预览：https://test.wwwoop.com/translationAI
 
 获取地址：https://www.wwwoop.com/home/Index/projectInfo?goodsId=47&typeParam=1
 
