@@ -9,6 +9,8 @@
 
 获取地址：https://www.wwwoop.com/home/Index/projectInfo?goodsId=47&typeParam=1
 
+（开发不易，小偿获取，感谢理解~~~）
+
 ### 管理系统展示
 ![image](https://github.com/user-attachments/assets/8039af89-2900-4917-b816-f30822d912a9)
 
